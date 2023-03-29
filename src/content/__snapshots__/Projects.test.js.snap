@@ -1,0 +1,75 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot  1`] = `
+<DocumentFragment>
+  <div
+    class="Projects "
+  >
+    <p
+      class="Title"
+    >
+      Projects
+    </p>
+    <ul
+      class="Projects-Mods"
+    >
+      <li>
+        <span
+          class=""
+        />
+        <a
+          href="https://github.com/Marcellous11/marcellous.tech"
+          target="_blank"
+        >
+          <img
+            alt="A gif of my website"
+            src="mTechGIF1.0.gif"
+          />
+        </a>
+      </li>
+      <li>
+        <span
+          class=""
+        />
+        <a
+          href="https://github.com/Marcellous11/full-local-leaders.git"
+          target="_blank"
+        >
+          <img
+            alt="Gif of local leaders website"
+            src="localLeadersGIF.gif"
+          />
+        </a>
+      </li>
+      <li>
+        <span
+          class=""
+        />
+        <a
+          href="https://github.com/Marcellous11/React-Jobly/edit/main/README.md"
+          target="_blank"
+        >
+          <img
+            alt="GIF of Jobly frontend"
+            src="joblyGIF.gif"
+          />
+        </a>
+      </li>
+      <li>
+        <span
+          class=""
+        />
+        <a
+          href="https://github.com/Marcellous11/yolder_front_end/blob/main/README.md"
+          target="_blank"
+        >
+          <img
+            alt="GIF of Yodlr frontend"
+            src="YodlrGIF.gif"
+          />
+        </a>
+      </li>
+    </ul>
+  </div>
+</DocumentFragment>
+`;

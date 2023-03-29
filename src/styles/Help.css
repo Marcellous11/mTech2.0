@@ -1,0 +1,32 @@
+.Help-Option-Ul li {
+	margin-left: 2rem;
+	color: rgb(186, 184, 49);
+	/* font-size: 20px; */
+	font-weight: 600;
+	list-style-type: none;
+	line-height: 2em;
+}
+.Help-Option-Ul b {
+	color: white;
+}
+
+.Help-Option-Ul-Mini {
+	display: none;
+}
+@media only screen and (max-width: 830px) {
+	.Help-Option-Ul li {
+		margin-left: -3em;
+		display: none;
+	}
+
+	.Help-Option-Ul-Mini {
+		display: block;
+		margin-left: -2.5em;
+		color: white;
+		list-style: none;
+	}
+	.Help-Option-Ul-Mini li p {
+		margin: .5em;
+		/* font-weight: 700; */
+	}
+}

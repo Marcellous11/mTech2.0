@@ -1,0 +1,94 @@
+.Skill-Title {
+	color: rgb(255, 255, 255);
+	font-weight: 700;
+}
+.Skills-List {
+	list-style: none;
+}
+.Skills-List ul {
+	color: white;
+	list-style-type: decimal-leading-zero;
+}
+.Skills-Container {
+	width: 70%;
+	height: .25em;
+	background-color: rgb(151, 151, 151);
+}
+.Skill-iso {
+	height: .25em;
+}
+
+.JavaScript {
+	width: 97%;
+	background-color: rgb(55, 255, 0);
+}
+.DOM {
+	width: 97%;
+	background-color: rgb(55, 255, 0);
+}
+.React {
+	width: 97%;
+	background-color: rgb(55, 255, 0);
+}
+.Node {
+	width: 90%;
+	background-color: rgb(111, 255, 0);
+}
+.Express {
+	width: 97%;
+	background-color: rgb(55, 255, 0);
+}
+.PostgreSQL {
+	width: 95%;
+	background-color: rgb(111, 255, 0);
+}
+.SQL {
+	width: 87%;
+	background-color: rgb(162, 255, 0);
+}
+.Git {
+	width: 90%;
+	background-color: rgb(162, 255, 0);
+}
+.Ajax {
+	width: 85%;
+	background-color: rgb(187, 255, 0);
+}
+.jQuery {
+	width: 80%;
+	background-color: rgb(204, 255, 0);
+}
+.Python {
+	width: 95%;
+	background-color: rgb(132, 255, 0);
+}
+.Flask {
+	width: 90%;
+	background-color: rgb(89, 255, 0);
+}
+.Oriented {
+	width: 96%;
+	background-color: rgb(55, 255, 0);
+}
+
+.C {
+	width: 65%;
+	background-color: rgb(204, 255, 0);
+}
+.Java {
+	width: 75%;
+	background-color: rgb(200, 255, 0);
+}
+
+.Skill-Sections {
+	color: rgb(255, 86, 227);
+}
+
+@media only screen and (max-width: 830px) {
+	.Skills-List {
+		margin-left: -1.5em;
+	}
+	.Skills-Container {
+		width: 90%;
+	}
+}

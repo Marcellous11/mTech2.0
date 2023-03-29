@@ -1,0 +1,94 @@
+.Home {
+	display: flex;
+	flex-direction: column;
+	margin-top: 6em;
+	align-items: center;
+}
+
+.Home-Name h1 {
+	color: rgb(0, 230, 0);
+	margin: auto;
+	margin-bottom: 1em;
+	font-size: 2.5em;
+}
+.Home-Name span {
+	color: rgb(0, 230, 0);
+	background-color: rgb(21, 21, 21);
+}
+.Home-TitleIMG {
+	margin: auto;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.Home-TitleIMG img {
+	position: relative;
+	top: -20px;
+	left: -20px;
+	margin: 0 0;
+	border: solid .1rem rgb(255, 255, 255);
+	width: 17em;
+}
+
+.Home-IMGFrame {
+	border-radius: 150px;
+	/* border: solid red; */
+	z-index: 0;
+	overflow: hidden;
+	height: 250px;
+	width: 250px;
+}
+
+.Home-TitleIMG p {
+	color: rgb(186, 184, 49);
+	font-size: 1.3em;
+}
+.Home-Links {
+	margin: auto;
+	margin-top: 1em;
+}
+.Home-Links svg {
+	/* height: 100px; */
+	font-size: 3em;
+	margin: 0 .5em;
+	color: rgb(186, 184, 49);
+}
+.Home-Links svg:hover {
+	color: white;
+	cursor: pointer;
+}
+
+.Home-More {
+	margin: auto;
+	/* display: inline-block; */
+}
+.Home-More a {
+	margin: auto;
+	color: rgb(186, 184, 49);
+	border: solid;
+	background-color: black;
+	padding: .1em;
+	text-decoration: none;
+	/* display: inline-block; */
+}
+.Home-More a:hover {
+	color: white;
+	cursor: pointer;
+}
+.Home-More h3 {
+	color: rgb(0, 230, 0);
+	font-size: 1.5em;
+}
+@media only screen and (max-width: 830px) {
+	.Home {
+		margin-top: 1em;
+	}
+	.Home-Name h1 {
+		text-align: center;
+	}
+	.Home-More {
+		margin: auto;
+		text-align: center;
+		line-height: 2.3em;
+	}
+}

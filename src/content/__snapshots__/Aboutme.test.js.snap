@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot  1`] = `
+<DocumentFragment>
+  <div
+    class="AboutMe"
+  >
+    <div
+      class="AboutMe-Intro"
+    >
+      <p
+        class="Title"
+      >
+        Quick facts about me
+      </p>
+      <ul>
+        <li>
+          Full-Stack Web Developer and Software Engineer
+        </li>
+        <li>
+          Born in Las Vegas, NV --&gt; now in Frisco, TX
+        </li>
+        <li>
+          Habbies include: Watching moives, rock climbing and playing soccer!
+        </li>
+      </ul>
+    </div>
+  </div>
+</DocumentFragment>
+`;

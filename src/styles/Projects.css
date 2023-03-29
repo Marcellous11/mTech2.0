@@ -1,0 +1,35 @@
+.Projects-Mods li {
+	margin: 2em 0;
+	list-style-type: none;
+	display: flex;
+	flex-direction: column;
+	margin-right: 2em;
+}
+.Projects-Mods li span {
+	color: rgb(255, 86, 227);
+	font-size: 1em;
+	font-weight: 600;
+}
+
+.Projects-Mods li:nth-of-type(even) {
+	/* margin-left: 5rem; */
+	/* flex-direction: row-reverse; */
+	margin-right: 1em;
+}
+.Projects-Mods li div {
+	color: red;
+}
+.Projects-Mods li a img {
+	border-radius: .2em;
+	margin-right: 2em;
+	width: 400px;
+}
+
+@media only screen and (max-width: 830px) {
+	.Projects-Mods li {
+		margin-left: -2em;
+	}
+	.Projects-Mods li a img {
+		width: 250px;
+	}
+}
