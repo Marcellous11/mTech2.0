@@ -5,6 +5,7 @@ import mTechgif from '../media/mTechGIF1.0.gif';
 import leadersGIF from '../media/localLeadersGIF.gif';
 import joblyGIF from '../media/joblyGIF.gif';
 import yodlrGIF from '../media/YodlrGIF.gif';
+import mTech2 from '../media/mTech2.0copy.gif';
 const Projects = () => {
 	return (
 		<div className="Projects ">
@@ -32,6 +33,12 @@ const Projects = () => {
 					<TypeAnimation cursor={false} sequence={[ 'Yodlr - Frontend Project' ]} />
 					<a href="https://github.com/Marcellous11/yolder_front_end/blob/main/README.md" target={'_blank'}>
 						<img src={yodlrGIF} alt="GIF of Yodlr frontend" />
+					</a>
+				</li>
+				<li>
+					<TypeAnimation cursor={false} sequence={[ 'mTech2.0 - (this website!) Frontend' ]} />
+					<a href="https://github.com/Marcellous11/mTech2.0.git" target={'_blank'}>
+						<img src={mTech2} alt="GIF of Yodlr frontend" />
 					</a>
 				</li>
 			</ul>

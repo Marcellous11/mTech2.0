@@ -13,15 +13,15 @@ const Work = () => {
 				<p className="Work-Position">Software Engineer</p>
 				<ul className="Work-Detail">
 					<li>
-						<b>700+ hour</b> hands-on intensive course in Software Engineering methodologies and 1:1
-						industry expert mentor oversight
+						<b>800+ hours</b> of hands-on intensive course material on Software Engineering methodologies
+						and 1:1 industry expert mentor oversight.
 					</li>
 					<li>
 						{' '}
 						<b>Built and designed APIs</b> to feed data demanded by web server.
 					</li>
 					<li>
-						Created web scrappers that store data into <b>PostgreSQL database.</b>{' '}
+						Created web scrappers that store data into a <b>PostgreSQL database.</b>{' '}
 					</li>
 					<li>Practiced analytical approached to problem-solving and trouble shooting.</li>
 				</ul>

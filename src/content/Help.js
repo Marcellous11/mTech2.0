@@ -20,7 +20,7 @@ const Help = () => {
 						<b>work</b>.......Some of my work experience
 					</li>
 					<li>
-						<b>projects</b>.........My favorite porjects
+						<b>projects</b>.........My favorite projects
 					</li>
 					<li>
 						<b>clear </b>...........Clear terminal window
