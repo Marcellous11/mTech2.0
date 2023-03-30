@@ -3,7 +3,7 @@
 
 # mTech2.0
 
-Here is my second run at creating a personal website. I've always really liked the aesthetic of the terminal and thought a website with that feeling would be cool. I visited multiple sites for inspiration, and they are all referenced in acknowledgement. Please visit the site and feel free to clone to projects, just give me a shout out if you decide to use it!
+Here is my second run at creating a personal website. I've always really liked the aesthetic of the terminal and thought a website with that feeling would be cool. I visited multiple sites for inspiration, and they are all referenced in acknowledgement. Please visit the site and feel free to clone the project, just give me a shout out if you decide to use it!
 
 
 ## Demo
