@@ -1,70 +1,68 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Logo](https://user-images.githubusercontent.com/31599945/228702328-a7b2c256-6cb3-4e9f-8b6f-a8d04cb414e3.png)
 
-## Available Scripts
+# mTech2.0
 
-In the project directory, you can run:
+Here is my second run at creating a personal website. I've always really liked the aesthetic of the terminal and thought a website with that feeling would be cool. I visited multiple sites for inspiration, and they are all referenced in acknowledgement. Please visit the site and feel free to clone to projects, just give me a shout out if you decide to use it!
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Demo
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![mTech2 0](https://user-images.githubusercontent.com/31599945/228702879-1861d04b-f2a4-41cd-a78b-a45882fd573b.gif)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Run Locally
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Clone the project
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+  git clone [https://link-to-project](https://github.com/Marcellous11/mTech2.0.git)
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Go to the project directory
 
-### `npm run eject`
+```bash
+  cd my-project
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Install dependencies
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+  npm install
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Start the server
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```bash
+  npm run start
+```
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Documentation
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+[React](https://react.dev/reference/react)
 
-### Code Splitting
+## Tech Stack
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+**Client:** React , JavaScript
 
-### Analyzing the Bundle Size
+## Acknowledgements
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+I got lots of inspirations from the following websites. All of these developers are amazing and their work speaks for itself. 
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [Kavin](https://www.kavin.me/)
+ - [Craig Feldman](https://craigfeldman.com/)
+ - [Ronnie Pyne](http://www.ronniepyne.com/)
+ - [Héber](https://heberleonard2.github.io/terminal-style-portfolio-page/)
+ - [KATHERINE OELSNER](https://www.katherineoelsner.com/)
 
-### Making a Progressive Web App
+## 🚀 About Me
+I'm a full stack developer currently living in Frisco TX. I love making websites that are useful and make life easier for people. That feeds into my love of making effective software that helps people in real life!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 🛠 Skills
+JavaScript, DOM Manipulation, Git, Ajax, jQuery, Python, Flask, SQL, PostgreSQL, Node, Express, React, Object Oriented Programming, and Redux.
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://marcellous.tech/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-curtis-jr/)
