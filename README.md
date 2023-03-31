@@ -1,7 +1,7 @@
 
 ![Logo](https://user-images.githubusercontent.com/31599945/228702328-a7b2c256-6cb3-4e9f-8b6f-a8d04cb414e3.png)
 
-# [mTech2.0](https://marcellous.tech/)
+# mTech2.0: found at [marcellous.tech](https://marcellous.tech/)
 
 Here is my second run at creating a personal website. I've always really liked the aesthetic of the terminal and thought a website with that feeling would be cool. I visited multiple sites for inspiration, and they are all referenced in acknowledgement. Please visit the site and feel free to clone the project, just give me a shout out if you decide to use it!
 
