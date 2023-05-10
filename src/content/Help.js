@@ -56,7 +56,7 @@ const Help = () => {
 					</li>
 					<li>
 						<b>projects</b>
-						<p> - My favorite porjects</p>
+						<p> - My favorite projects</p>
 					</li>
 					<li style={{ color: 'rgb(0,214,0)' }}>
 						<b>all</b> <p> - Show everything</p>
