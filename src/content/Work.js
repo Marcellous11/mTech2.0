@@ -57,6 +57,15 @@ const Work = () => {
 						representative after 1 month.
 					</li>
 				</ul>
+
+				<p className="Work-Job">Invoke Inc Public Sector, Frisco (remote), TX</p>
+				<p className="Work-Date">04/2023 - Current</p>
+				<p className="Work-Position">Inteligent Automation Consultant</p>
+				<ul className="Work-Detail">
+					<li>Goverment contracted to consult airman on builing automation. Involves remote work and onsite work at Air Force bases. Requires Common Access clearance.</li>
+                    <li>Work with a variety of software including: UiPath, C#, VB, Python and more.</li>
+					<li>Build and test more complex automations. Followed up with post completion support.</li>
+				</ul>
 			</div>
 		</div>
 	);
