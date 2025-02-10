@@ -15,7 +15,7 @@ const Skills = () => {
 						</div>
 					</li>
 					<li>
-						<p className="Skill-Title">Python</p>
+						<p className="Skill-Title">Python is the best</p>
 						<div className="Skills-Container">
 							<div className="Skill-iso Python" />
 						</div>
